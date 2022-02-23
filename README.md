@@ -5,7 +5,7 @@
 ________________________________________________________________________________________________________________________________________________________________________________
 <!-- credits for gif https://www.techbabble.zone/how-to-become-a-software-developer-without-a-cs-degree-or-bootcamp/ --->
 
-<img align="right" height="207" width="250" src="Programmer.gif">
+<img align="right" height="190" width="250" src="Programmer.gif">
 
 ### 😄 About ME
 
