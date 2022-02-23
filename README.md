@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I’m <a href="https://www.linkedin.com/in/soumilsingh21">Soumil Singh!</a></h1>
-<h3 align="center"> A passionate <em><strong>Front End Developer</strong> and a <strong>Cloud Enthusiast</strong></em></h3>
+<h3 align="center"> A passionate <em><strong>Front End Developer</strong> and a <strong>Cloud Enthusiast</strong></em> </h3>
 
 <br></br>
 ________________________________________________________________________________________________________________________________________________________________________________
@@ -32,8 +32,8 @@ ________________________________________________________________________________
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumil1&layout=compact)" />
 --->
 
-<br></br>
-________________________________________________________________________________________________________________________________________________________________________________
+----
+
 ### 📋 Languages and Tools
 
 <br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
