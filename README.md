@@ -2,8 +2,10 @@
 <h3 align="center"> A passionate <em><strong>Front End Developer</strong> and a <strong>Cloud Enthusiast</strong></em></h3>
 
 <br></br>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<img align="right" height="200" width="300" src="Programmer.gif">
+________________________________________________________________________________________________________________________________________________________________________________
+<!-- credits for gif https://www.techbabble.zone/how-to-become-a-software-developer-without-a-cs-degree-or-bootcamp/ --->
+
+<img align="right" height="207" width="250" src="Programmer.gif">
 
 ### 😄 About ME
 
@@ -31,7 +33,7 @@
 --->
 
 <br></br>
----
+________________________________________________________________________________________________________________________________________________________________________________
 ### 📋 Languages and Tools
 
 <br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
