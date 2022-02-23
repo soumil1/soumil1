@@ -2,10 +2,10 @@
 <h3 align="center"> A passionate <em><strong>Front End Developer</strong> and a <strong>Cloud Enthusiast</strong></em></h3>
 
 <br></br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img align="right" height="200" width="300" src="Programmer.gif">
 
-<img align="right" height="200" width="300" src="programmers.gif">
-
-# 😄 About ME
+### 😄 About ME
 
 -  **Working On :** Front-End 💻 | Cloud ☁️
 -  **Learning :** React ⚛️ | Node.js 🚀
@@ -31,7 +31,6 @@
 --->
 
 <br></br>
-
 ---
 ### 📋 Languages and Tools
 
