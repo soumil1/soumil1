@@ -10,7 +10,7 @@
 -  **Working On :** Front-End 💻 | Cloud ☁️
 -  **Learning :** React ⚛️ | Node.js 🚀
 -  **Interests :** Books 📚 | Music 🎧 | Cars 🚘
--  **Ask me about :** Anything! Happy to help 🤞
+-  **Ask me about :** Anything! I'm happy to help 🤞
 -  **Fun Fact :** I'm looking to collaborate with other developers 
 -  **How to reach me :** [**Email**][Email] or [**Twitter**][Twitter] 
 
