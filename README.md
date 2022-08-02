@@ -17,8 +17,6 @@ ________________________________________________________________________________
 -  **How to reach me :** [**Email**][Email] or [**Twitter**][Twitter] 
 
 ----
-### ✨ Visitors count                                                                                                                      
-![VisitorCount](https://profile-counter.glitch.me/{soumil1}/count.svg)
 
 ### 📈 Stats
 <br>
