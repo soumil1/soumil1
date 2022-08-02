@@ -23,12 +23,21 @@ ________________________________________________________________________________
 <details>
       <summary> My Github Stats </summary>
 <br>
-<p align="left">
 <a href="https://github.com/soumil1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=soumil1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumil1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumil1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true" />
 </a>
-</p>
+
+<a href="https://github.com/soumil1">
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=soumil1&layout=compact)]" />
+</a>
+
+
+<!--- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> --->
 </details>
 
 
