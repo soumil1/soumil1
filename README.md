@@ -16,7 +16,7 @@ ________________________________________________________________________________
 -  **Fun Fact :** I'm looking to collaborate with other developers 
 -  **How to reach me :** [**Email**][Email] or [**Twitter**][Twitter] 
 
----
+----
 ### ✨ Visitors count                                                                                                                      
 ![VisitorCount](https://profile-counter.glitch.me/{soumil1}/count.svg)
 
