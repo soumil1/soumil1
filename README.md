@@ -49,6 +49,7 @@ ________________________________________________________________________________
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Virtual Machine](https://soumil.hashnode.dev/azure-virtual-machines)
 <!-- BLOG-POST-LIST:END -->
 
 ---
