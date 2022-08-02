@@ -47,6 +47,12 @@ ________________________________________________________________________________
 
 ---
 
+### 📘 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 🔗 Connect With Me
 
 <br>[![Linkedin Badge](https://img.shields.io/badge/-Soumilsingh21-000000?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumilsingh21)](https://www.linkedin.com/in/soumilsingh21/)
