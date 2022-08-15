@@ -73,7 +73,7 @@ ________________________________________________________________________________
 <br>[![Linkedin Badge](https://img.shields.io/badge/-Soumilsingh21-000000?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumilsingh21)](https://www.linkedin.com/in/soumilsingh21/)
 [![Instagram Badge](https://img.shields.io/badge/-SoumilSingh-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/_soumil.__/)](https://instagram.com/_soumil.__)
 [![Twitter Badge](https://img.shields.io/badge/-Soumilsingh_1-1DA1F2?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/Soumilsingh_1)](https://twitter.com/Soumilsingh_1/)
-[![Facebook Badge](https://img.shields.io/badge/-SoumilSingh.980-purple?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/somil.singh.980/)](https://www.facebook.com/somil.singh.980/)
+[![Facebook Badge](https://img.shields.io/badge/-SoumilSingh21-purple?style=plastic&logo=Facebook&logoColor=white&link=[https://facebook.com/soumilsingh21](https://www.facebook.com/soumilsingh21))](https://facebook.com/soumilsingh21/)
 [![Gmail Badge](https://img.shields.io/badge/Soumil096-light?style=plastic&logo=Gmail&logoColor=&link=mailto:Soumil096@duck.com)](mailto:soumil096@duck.com)
 </br>
 
